@@ -1,0 +1,94 @@
+{
+    "logo":[
+        {
+            "logotypeWhite": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/logotype.svg",
+            "icon": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/logo_icon.svg",
+            "logoNormal": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/logo.svg",
+            "alt": "程翊室內裝修"
+        }
+    ],
+
+    "companyInfo": [
+        {
+            "basicInfo":[
+                {
+                    "key": "address",
+                    "title": "A：",
+                    "titleTag": "台北市內湖區金湖路363巷67弄59號",
+                    "content": "台北市內湖區金湖路363巷67弄59號",
+                    "link": "https://goo.gl/maps/FxqyQEtJtm8tkNZq9"
+                },
+                {
+                    "key": "mail",
+                    "title": "E：",
+                    "titleTag": "interi@tei-i.com.tw",
+                    "content": "interi@tei-i.com.tw",
+                    "link": "mailto:interi@tei-i.com.tw"
+                },
+                {
+                    "key": "tel",
+                    "title": "T：",
+                    "titleTag": "02-2630-7168",
+                    "content": "02-2630-7168",
+                    "link": "tel:02-2630-7168"
+                },
+                {
+                    "key": "fax",
+                    "title": "F：",
+                    "titleTag": "02-2630-7128",
+                    "content": "02-2630-7128",
+                    "link": "tel:02-2630-7128"
+                }
+            ],
+            "socialMediaInfo":[
+                {
+                    "key": "fb",
+                    "titleTag": "Facebook",
+                    "link": "https://www.facebook.com/tei168/"
+                },
+                {
+                    "key": "youtube",
+                    "titleTag": "Youtube",
+                    "link": "https://www.youtube.com/channel/UCcLLMp92Nek_ChHzFnAE2wg"
+                },
+                {
+                    "key": "ig",
+                    "titleTag": "Instagram",
+                    "link": "https://www.instagram.com/tei_idesign/"
+                },
+                {
+                    "key": "line",
+                    "titleTag": "Line",
+                    "link": "http://line.me/ti/p/~tei1688"
+                }
+            ]
+        }
+    ],
+
+    "navList": [
+        {
+            "content": [
+                {
+                    "title": "公司簡介",
+                    "titleTag": "公司簡介",
+                    "link": "./about.html"
+                },
+                {
+                    "title": "作品分享",
+                    "titleTag": "作品分享",
+                    "link": "./product.html"
+                },
+                {
+                    "title": "影音專區",
+                    "titleTag": "影音專區",
+                    "link": "./video.html"
+                },
+                {
+                    "title": "聯絡我們",
+                    "titleTag": "聯絡我們",
+                    "link": "./contact.html"
+                }
+            ]
+        }
+    ]
+}
