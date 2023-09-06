@@ -1,18 +1,14 @@
 {
     "banner": [
         {
-            "content": [
-                {
-                    "title": "設計．人與空間的對話",
-                    "text": "回到一個擁有情感、回憶的地方",
-                    "bgSrc": "http://www.tei-i.com.tw/web/upload/banner/20221005112630FC2XLkk.jpg"
-                },
-                {
-                    "title": "愜意．人與空間的一幅畫",
-                    "text": "用情感、回憶繪製的地方",
-                    "bgSrc": "http://www.tei-i.com.tw/web/upload/20220706113112vsWHw3m.jpg"
-                }
-            ]
+            "title": "設計．人與空間的對話",
+            "text": "回到一個擁有情感、回憶的地方",
+            "bgSrc": "http://www.tei-i.com.tw/web/upload/banner/20221005112630FC2XLkk.jpg"
+        },
+        {
+            "title": "愜意．人與空間的一幅畫",
+            "text": "用情感、回憶繪製的地方",
+            "bgSrc": "http://www.tei-i.com.tw/web/upload/20220706113112vsWHw3m.jpg"
         }
     ]
 }
