@@ -1,0 +1,123 @@
+{
+    "title": "作品展示",
+    "enTitle": "Project",
+    "titleImgUrl": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/wire_projects.svg",
+    "content": [
+        {
+            "key": "product1",
+            "title": "竹風",
+            "intro": "日式溫泉會館。從硬體到軟件，全室大量使用木質建材，木質貼皮、原木家具，結合榻榻米，空間中散發古色古香的韻味，彷彿置身日本溫泉會館。",
+            "carouselImgs": [
+                "http://www.tei-i.com.tw/web/upload/20220706145914NQuysae.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706150330XZVnXjR.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706150139Hh3ZhhN.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706150131j4seIrv.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706150053dCfFuQm.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706150045vJKi8IK.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706150631gJR53pB.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706150621t7wbvZC.jpg"
+            ],
+            "detailContent":[
+                {
+                    "title": "玄關及客廳",
+                    "list": [
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "text": "設計造型端景修飾電表箱"
+                        },
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "text": "滑門木格柵搭配榻榻米換鞋椅，營造日式復古氛圍"
+                        },
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
+                            "text": "天花板以實木拼接設計氣口，手工製作客廳吊燈"
+                        }
+                    ]
+                },
+                {
+                    "title": "臥室空間",
+                    "list": [
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
+                            "text": "臥室空間"
+                        },
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
+                            "text": "臥室空間充滿榻榻米香氣縈繞"
+                        }
+                    ]
+                },
+                {
+                    "title": "公共休憩空間",
+                    "list": [
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
+                            "text": "餐桌與客廳桌面為相同木材切割，多人聚會時可拼接使用"
+                        },
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
+                            "text": "餐廳空間"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "product2",
+            "title": "知音",
+            "intro": "溫馨人文現代風，全室鋪設木地板，打造無障礙退休宅。玄關及電視牆以花紋、木紋木地板交錯拼接的手法，掌握「花」與「發」的諧音，透漏吉祥氣息。",
+            "carouselImgs": [
+                "http://www.tei-i.com.tw/web/upload/20220708115710LEhac3U.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706174128jcXwPug.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706174052t6J28Sx.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706174041eSCtBUF.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706150053dCfFuQm.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706173935UFH6niZ.jpg",
+                "http://www.tei-i.com.tw/web/upload/202207061739212CndGnD.jpg",
+                "http://www.tei-i.com.tw/web/upload/20220706173900JePGnm6.jpg"
+            ],
+            "detailContent":[
+                {
+                    "title": "公區",
+                    "list": [
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/20220706174651h7r57US.jpg",
+                            "text": "全室鋪設木地板，打造無障礙空間"
+                        },
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/20220706174651jr7g5EC.jpg",
+                            "text": "開闊的客廳空間，將陽光引入室內"
+                        }
+                    ]
+                },
+                {
+                    "title": "臥室空間",
+                    "list": [
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/20220706174653AKBJ2-Q.jpg",
+                            "text": "以木地板交錯拼接爬牆"
+                        },
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/20220706174654hLDvMni.jpg",
+                            "text": "主臥衛浴"
+                        }
+                    ]
+                },
+                {
+                    "title": "公共休憩空間",
+                    "list": [
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/20220706174655QnXwhZC.jpg",
+                            "text": "餐桌與客廳桌面為相同木材切割，多人聚會時可拼接使用"
+                        },
+                        {
+                            "img": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
+                            "text": "書房空間，菱形窗格配合光影呈現"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
