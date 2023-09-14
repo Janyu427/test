@@ -23,15 +23,15 @@
                     "title": "公區",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "設計造型端景修飾電表箱"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "滑門木格柵搭配榻榻米換鞋椅，營造日式復古氛圍"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
                             "text": "天花板以實木拼接設計氣口，手工製作客廳吊燈"
                         }
                     ]
@@ -41,11 +41,11 @@
                     "title": "臥室空間 / 衛浴空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
                             "text": "臥室空間"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
                             "text": "臥室空間充滿榻榻米香氣縈繞"
                         }
                     ]
@@ -55,11 +55,11 @@
                     "title": "廚房空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
                             "text": "餐桌與客廳桌面為相同木材切割，多人聚會時可拼接使用"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
                             "text": "餐廳空間"
                         }
                     ]
@@ -86,11 +86,11 @@
                     "title": "公區",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706174651h7r57US.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706174651h7r57US.jpg",
                             "text": "全室鋪設木地板，打造無障礙空間"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706174651jr7g5EC.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706174651jr7g5EC.jpg",
                             "text": "開闊的客廳空間，將陽光引入室內"
                         }
                     ]
@@ -100,11 +100,11 @@
                     "title": "臥室空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706174653AKBJ2-Q.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706174653AKBJ2-Q.jpg",
                             "text": "以木地板交錯拼接爬牆"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706174654hLDvMni.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706174654hLDvMni.jpg",
                             "text": "主臥衛浴"
                         }
                     ]
@@ -114,11 +114,11 @@
                     "title": "衛浴空間 / 景觀陽台",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706174655QnXwhZC.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706174655QnXwhZC.jpg",
                             "text": "餐桌與客廳桌面為相同木材切割，多人聚會時可拼接使用"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
                             "text": "書房空間，菱形窗格配合光影呈現"
                         }
                     ]
@@ -145,11 +145,11 @@
                     "title": "公區",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706174651h7r57US.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706174651h7r57US.jpg",
                             "text": "全室鋪設木地板，打造無障礙空間"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706174651jr7g5EC.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706174651jr7g5EC.jpg",
                             "text": "開闊的客廳空間，將陽光引入室內"
                         }
                     ]
@@ -159,11 +159,11 @@
                     "title": "臥室空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706174653AKBJ2-Q.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706174653AKBJ2-Q.jpg",
                             "text": "以木地板交錯拼接爬牆"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706174654hLDvMni.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706174654hLDvMni.jpg",
                             "text": "主臥衛浴"
                         }
                     ]
@@ -173,11 +173,11 @@
                     "title": "衛浴空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706174655QnXwhZC.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706174655QnXwhZC.jpg",
                             "text": "餐桌與客廳桌面為相同木材切割，多人聚會時可拼接使用"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
                             "text": "書房空間，菱形窗格配合光影呈現"
                         }
                     ]
@@ -204,15 +204,15 @@
                     "title": "公區",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "設計造型端景修飾電表箱"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "滑門木格柵搭配榻榻米換鞋椅，營造日式復古氛圍"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
                             "text": "天花板以實木拼接設計氣口，手工製作客廳吊燈"
                         }
                     ]
@@ -222,11 +222,11 @@
                     "title": "臥室空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
                             "text": "臥室空間"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
                             "text": "臥室空間充滿榻榻米香氣縈繞"
                         }
                     ]
@@ -236,11 +236,11 @@
                     "title": "衛浴空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
                             "text": "餐桌與客廳桌面為相同木材切割，多人聚會時可拼接使用"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
                             "text": "餐廳空間"
                         }
                     ]
@@ -267,15 +267,15 @@
                     "title": "玄關及客廳",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "設計造型端景修飾電表箱"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "滑門木格柵搭配榻榻米換鞋椅，營造日式復古氛圍"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
                             "text": "天花板以實木拼接設計氣口，手工製作客廳吊燈"
                         }
                     ]
@@ -285,11 +285,11 @@
                     "title": "臥室空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
                             "text": "臥室空間"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
                             "text": "臥室空間充滿榻榻米香氣縈繞"
                         }
                     ]
@@ -299,11 +299,11 @@
                     "title": "公共休憩空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
                             "text": "餐桌與客廳桌面為相同木材切割，多人聚會時可拼接使用"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
                             "text": "餐廳空間"
                         }
                     ]
@@ -330,15 +330,15 @@
                     "title": "玄關及客廳",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "設計造型端景修飾電表箱"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "滑門木格柵搭配榻榻米換鞋椅，營造日式復古氛圍"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
                             "text": "天花板以實木拼接設計氣口，手工製作客廳吊燈"
                         }
                     ]
@@ -348,11 +348,11 @@
                     "title": "臥室空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
                             "text": "臥室空間"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
                             "text": "臥室空間充滿榻榻米香氣縈繞"
                         }
                     ]
@@ -362,11 +362,11 @@
                     "title": "公共休憩空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
                             "text": "餐桌與客廳桌面為相同木材切割，多人聚會時可拼接使用"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
                             "text": "餐廳空間"
                         }
                     ]
@@ -393,15 +393,15 @@
                     "title": "玄關及客廳",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "設計造型端景修飾電表箱"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "滑門木格柵搭配榻榻米換鞋椅，營造日式復古氛圍"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
                             "text": "天花板以實木拼接設計氣口，手工製作客廳吊燈"
                         }
                     ]
@@ -411,11 +411,11 @@
                     "title": "臥室空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
                             "text": "臥室空間"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
                             "text": "臥室空間充滿榻榻米香氣縈繞"
                         }
                     ]
@@ -425,11 +425,11 @@
                     "title": "公共休憩空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
                             "text": "餐桌與客廳桌面為相同木材切割，多人聚會時可拼接使用"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
                             "text": "餐廳空間"
                         }
                     ]
@@ -456,15 +456,15 @@
                     "title": "玄關及客廳",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "設計造型端景修飾電表箱"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164213Z78HNXE.jpg",
                             "text": "滑門木格柵搭配榻榻米換鞋椅，營造日式復古氛圍"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/202207061642245edvCpU.jpg",
                             "text": "天花板以實木拼接設計氣口，手工製作客廳吊燈"
                         }
                     ]
@@ -474,11 +474,11 @@
                     "title": "臥室空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164255NvIx4kd.jpg",
                             "text": "臥室空間"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/2022070616425868kZqqM.jpg",
                             "text": "臥室空間充滿榻榻米香氣縈繞"
                         }
                     ]
@@ -488,11 +488,11 @@
                     "title": "公共休憩空間",
                     "list": [
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164350yqduFwB.jpg",
                             "text": "餐桌與客廳桌面為相同木材切割，多人聚會時可拼接使用"
                         },
                         {
-                            "img": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
+                            "imgSrc": "http://www.tei-i.com.tw/web/upload/20220706164355AwYyvcW.jpg",
                             "text": "餐廳空間"
                         }
                     ]
