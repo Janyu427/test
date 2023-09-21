@@ -4,6 +4,7 @@
     "titleImgUrl": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/wire_contact.svg",
     "sectionTitle": "聯絡表單",
     "sectionText": "請填寫下方表單，專員會盡快與您聯繫",
+    "sectionBg": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/contactForm_bg.jpg",
     "formContent": [
         {
             "title": "姓名",
