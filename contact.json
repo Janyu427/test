@@ -1,0 +1,34 @@
+{
+    "title": "聯絡我們",
+    "enTitle": "Contact",
+    "titleImgUrl": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/wire_contact.svg",
+    "sectionTitle": "聯絡表單",
+    "sectionText": "請填寫下方表單，專員會盡快與您聯繫",
+    "formContent": [
+        {
+            "title": "姓名",
+            "must": true,
+            "fieldType": "inputText"
+        },
+        {
+            "title": "E-mail",
+            "must": true,
+            "fieldType": "inputText"
+        },
+        {
+            "title": "地址",
+            "must": false,
+            "fieldType": "inputText"
+        },
+        {
+            "title": "聯絡電話",
+            "must": true,
+            "fieldType": "inputText"
+        },
+        {
+            "title": "聯絡事項",
+            "must": true,
+            "fieldType": "textarea"
+        }
+    ]
+}
