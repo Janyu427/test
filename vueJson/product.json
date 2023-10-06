@@ -1,0 +1,75 @@
+{
+    "title": "作品展示",
+    "enTitle": "Project",
+    "titleImgUrl": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/wire_projects.svg",
+    "content": [
+        {
+            "key": "categoryHome",
+            "title": "住家",
+            "content": [
+                {
+                    "name": "文藝", 
+                    "titleTag": "文藝",
+                    "itemNumber": "1",
+                    "link": "https://www.google.com",
+                    "bgSrc": "http://www.tei-i.com.tw/web/upload/20220706113112vsWHw3m.jpg"
+                },
+                {
+                    "name": "古色古香", 
+                    "titleTag": "古色古香",
+                    "itemNumber": "2",
+                    "link": "https://www.google.com",
+                    "bgSrc":"http://www.tei-i.com.tw/web/upload/20220706113112vsWHw3m.jpg"
+                },
+                {
+                    "name": "南法鄉村風", 
+                    "titleTag": "南法鄉村風",
+                    "itemNumber": "3",
+                    "link": "https://www.google.com",
+                    "bgSrc": "http://www.tei-i.com.tw/web/upload/20220708115710LEhac3U.jpg"
+                },
+                {
+                    "name": "工業風別墅", 
+                    "titleTag": "工業風別墅",
+                    "itemNumber": "4",
+                    "link": "https://www.google.com",
+                    "bgSrc": "http://www.tei-i.com.tw/web/upload/20220708115710LEhac3U.jpg"
+                }
+            ]
+        },
+        {
+            "key": "categoryBusiness",
+            "title": "商空",
+            "content": [
+                {
+                    "name": "知音", 
+                    "link": "https://www.google.com",
+                    "itemNumber": "5",
+                    "titleTag": "知音",
+                    "bgSrc": "http://www.tei-i.com.tw/web/upload/20220708134319PUPdwXr.jpg"
+                },
+                {
+                    "name": "竹風", 
+                    "titleTag": "竹風",
+                    "itemNumber": "6",
+                    "link": "https://www.google.com",
+                    "bgSrc": "http://www.tei-i.com.tw/web/upload/20221005115053sNUvGvK.jpg"
+                },
+                {
+                    "name": "旭日", 
+                    "titleTag": "旭日",
+                    "itemNumber": "7",
+                    "link": "https://www.google.com",
+                    "bgSrc": "http://www.tei-i.com.tw/web/upload/20221228173945hWjbYus.jpg"
+                },
+                {
+                    "name": "銀髮族", 
+                    "titleTag": "銀髮族",
+                    "itemNumber": "8",
+                    "link": "https://www.google.com",
+                    "bgSrc": "http://www.tei-i.com.tw/web/upload/20221228174147Ywjuvt9.jpg"
+                }
+            ]
+        }
+    ]
+}
