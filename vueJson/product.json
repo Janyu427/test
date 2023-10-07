@@ -6,7 +6,7 @@
         {
             "key": "categoryHome",
             "title": "住家",
-            "content": [
+            "items": [
                 {
                     "name": "文藝", 
                     "titleTag": "文藝",
@@ -40,7 +40,7 @@
         {
             "key": "categoryBusiness",
             "title": "商空",
-            "content": [
+            "items": [
                 {
                     "name": "知音", 
                     "link": "https://www.google.com",
