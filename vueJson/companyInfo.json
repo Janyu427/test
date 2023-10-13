@@ -63,21 +63,25 @@
 
     "navList": [
         {
+            "key": "about",
             "title": "公司簡介",
             "titleTag": "公司簡介",
             "link": "/about"
         },
         {
+            "key": "product",
             "title": "作品展示",
             "titleTag": "作品展示",
             "link": "/product"
         },
         {
+            "key": "video",
             "title": "影音專區",
             "titleTag": "影音專區",
             "link": "/video"
         },
         {
+            "key": "contact",
             "title": "聯絡我們",
             "titleTag": "聯絡我們",
             "link": "/contact"
