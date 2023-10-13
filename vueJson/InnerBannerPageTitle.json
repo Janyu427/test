@@ -1,0 +1,28 @@
+{
+    "InnerBannerPageTitle": [
+        {
+            "key": "about",
+            "title": "公司簡介",
+            "enTitle": "About Us",
+            "titleImgUrl": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/wire_about.svg"
+        },
+        {
+            "key": "product",
+            "title": "作品展示",
+            "enTitle": "Projects",
+            "titleImgUrl": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/wire_product.svg"
+        },
+        {
+            "key": "video",
+            "title": "影音專區",
+            "enTitle": "Video",
+            "titleImgUrl": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/wire_video.svg"
+        },
+        {
+            "key": "contact",
+            "title": "聯絡我們",
+            "enTitle": "Contact",
+            "titleImgUrl": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/wire_contact.svg"
+        },
+    ]
+}
