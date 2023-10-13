@@ -65,22 +65,22 @@
         {
             "title": "公司簡介",
             "titleTag": "公司簡介",
-            "link": "./about"
+            "link": "/about"
         },
         {
             "title": "作品展示",
             "titleTag": "作品展示",
-            "link": "./product"
+            "link": "/product"
         },
         {
             "title": "影音專區",
             "titleTag": "影音專區",
-            "link": "./video"
+            "link": "/video"
         },
         {
             "title": "聯絡我們",
             "titleTag": "聯絡我們",
-            "link": "./contact"
+            "link": "/contact"
         }
     ]
 }
