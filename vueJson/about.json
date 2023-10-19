@@ -1,8 +1,5 @@
 {
-    "title": "公司簡介",
-    "enTitle": "About Us",
-    "titleImgUrl": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/wire_about.svg",
-    "content": [
+    "about": [
         {
             "key": "firstSection",
             "title": "公司歷程",
