@@ -13,6 +13,12 @@
             "titleImgUrl": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/wire_projects.svg"
         },
         {
+            "key": "productDetails",
+            "title": "作品展示",
+            "enTitle": "Projects",
+            "titleImgUrl": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/wire_projects.svg"
+        },
+        {
             "key": "video",
             "title": "影音專區",
             "enTitle": "Video",
