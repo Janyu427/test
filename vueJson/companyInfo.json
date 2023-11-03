@@ -1,8 +1,8 @@
 {
     "logo":{
-            "logotypeWhite": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/logotype.svg",
-            "icon": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/logo_icon.svg",
-            "logoNormal": "http://www.tei-i.com.tw/web/res/zh_TW/D001/images/logo.svg",
+            "logotypeWhite": "https://janyu427.github.io/test/teiImages/logotype.svg",
+            "icon": "https://janyu427.github.io/test/teiImages/logoIcon.svg",
+            "logoNormal": "https://janyu427.github.io/test/teiImages/logo.svg",
             "alt": "程翊室內裝修"
     },
 
