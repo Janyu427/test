@@ -37,56 +37,56 @@
                     "titleTag": "現代簡約",
                     "itemNumber": "5",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product1.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product5.jpg"
                 },
                 {
                     "name": "現代輕奢", 
                     "titleTag": "現代輕奢",
                     "itemNumber": "6",
                     "link": "https://www.google.com",
-                    "bgSrc":"https://janyu427.github.io/test/teiImages/product2.jpg"
+                    "bgSrc":"https://janyu427.github.io/test/teiImages/product6.jpg"
                 },
                 {
                     "name": "暖陽", 
                     "titleTag": "暖陽",
                     "itemNumber": "7",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product3.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product7.jpg"
                 },
                 {
                     "name": "工業風套房", 
                     "titleTag": "工業風套房",
                     "itemNumber": "8",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product4.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product8.jpg"
                 },
                 {
                     "name": "幸福", 
                     "titleTag": "幸福",
                     "itemNumber": "9",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product1.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product9.jpg"
                 },
                 {
                     "name": "白宮", 
                     "titleTag": "白宮",
                     "itemNumber": "10",
                     "link": "https://www.google.com",
-                    "bgSrc":"https://janyu427.github.io/test/teiImages/product2.jpg"
+                    "bgSrc":"https://janyu427.github.io/test/teiImages/product10.jpg"
                 },
                 {
                     "name": "精品", 
                     "titleTag": "精品",
                     "itemNumber": "11",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product3.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product11.jpg"
                 },
                 {
                     "name": "誠意", 
                     "titleTag": "誠意",
                     "itemNumber": "12",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product4.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product12.jpg"
                 }
             ]
         },
@@ -99,84 +99,84 @@
                     "titleTag": "科技",
                     "link": "https://www.google.com",
                     "itemNumber": "13",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product5.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product13.jpg"
                 },
                 {
                     "name": "竹風", 
                     "titleTag": "竹風",
                     "itemNumber": "14",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product6.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product14.jpg"
                 },
                 {
                     "name": "旭日", 
                     "titleTag": "旭日",
                     "itemNumber": "15",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product7.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product15.jpg"
                 },
                 {
                     "name": "銀髮族", 
                     "titleTag": "銀髮族",
                     "itemNumber": "16",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product8.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product16.jpg"
                 },
                 {
                     "name": "木地板", 
                     "titleTag": "木地板",
                     "link": "https://www.google.com",
                     "itemNumber": "17",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product5.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product17.jpg"
                 },
                 {
                     "name": "科技", 
                     "titleTag": "科技",
                     "itemNumber": "18",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product6.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product18.jpg"
                 },
                 {
                     "name": "大理石", 
                     "titleTag": "大理石",
                     "itemNumber": "19",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product7.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product19.jpg"
                 },
                 {
                     "name": "花雕岩", 
                     "titleTag": "花雕岩",
                     "itemNumber": "20",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product8.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product20.jpg"
                 },
                 {
                     "name": "咖啡香", 
                     "titleTag": "咖啡香",
                     "link": "https://www.google.com",
                     "itemNumber": "21",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product5.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product21.jpg"
                 },
                 {
                     "name": "鮮明", 
                     "titleTag": "鮮明",
                     "itemNumber": "22",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product6.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product22.jpg"
                 },
                 {
                     "name": "燦爛", 
                     "titleTag": "燦爛",
                     "itemNumber": "23",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product7.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product23.jpg"
                 },
                 {
                     "name": "未來先知", 
                     "titleTag": "未來先知",
                     "itemNumber": "24",
                     "link": "https://www.google.com",
-                    "bgSrc": "https://janyu427.github.io/test/teiImages/product8.jpg"
+                    "bgSrc": "https://janyu427.github.io/test/teiImages/product24.jpg"
                 }
             ]
         }
